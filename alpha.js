@@ -190,7 +190,7 @@ if (global.db) setInterval(async () => {
       })
    }
 
-   console.log(color(figlet.textSync('ALPHABOT', {
+   console.log(color(figlet.textSync('CONAN', {
       font: 'Standard',
       horizontalLayout: 'default',
       vertivalLayout: 'default',
